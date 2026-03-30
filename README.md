@@ -1,14 +1,14 @@
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Mostafa%20Khairalla&fontSize=50&fontColor=e94560&fontAlignY=38&desc=Senior%20.NET%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20CRM%20%26%20ERP%20Specialist&descAlignY=58&descSize=16&animation=fadeIn)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Mostafa%20Khairalla&fontSize=50&fontColor=e94560&fontAlignY=38&desc=Senior%20.NET%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20CRM%20%26%20ERP%20Specialist&descAlignY=58&descSize=16&animation=fadeIn" />
+<div align="center">
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mostafakhairalla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafakhairalla)
 [![GitHub](https://img.shields.io/badge/GitHub-MOSTAFA--khairalla-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MOSTAFA-khairalla)
 [![Gmail](https://img.shields.io/badge/Gmail-mostafakhairalla789@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafakhairalla789@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B20%20109%20351%201748-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201093511748)
-[![Location](https://img.shields.io/badge/Cairo-Egypt-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Cairo,Egypt)
+[![Phone](https://img.shields.io/badge/WhatsApp-%2B20_109_351_1748-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201093511748)
+[![Location](https://img.shields.io/badge/Cairo%2C_Egypt-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Cairo,Egypt)
 
 <br/>
 
@@ -80,7 +80,7 @@ Currently working at **Etisalat Egypt**, I design high-performance, data-driven 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
@@ -204,6 +204,4 @@ I specialize in building **enterprise-grade .NET solutions** for global clients.
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer&animation=fadeIn"/>
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer&animation=fadeIn)
