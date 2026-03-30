@@ -1,13 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Mostafa%20Khairalla&fontSize=50&fontColor=e94560&fontAlignY=38&desc=Senior%20.NET%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20CRM%20%26%20ERP%20Specialist&descAlignY=58&descSize=16&animation=fadeIn)
-
 <div align="center">
+
+<a href="https://github.com/MOSTAFA-khairalla">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Mostafa+Khairalla;Senior+.NET+Engineer+%7C+4%2B+Years+Experience;CRM+%26+ERP+%26+POS+Specialist;Full-Stack+Developer+%7C+Angular+%2B+ASP.NET" alt="Typing SVG" />
+</a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mostafakhairalla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafakhairalla)
 [![GitHub](https://img.shields.io/badge/GitHub-MOSTAFA--khairalla-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MOSTAFA-khairalla)
 [![Gmail](https://img.shields.io/badge/Gmail-mostafakhairalla789@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafakhairalla789@gmail.com)
-[![Phone](https://img.shields.io/badge/WhatsApp-%2B20_109_351_1748-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201093511748)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B20_109_351_1748-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201093511748)
 [![Location](https://img.shields.io/badge/Cairo%2C_Egypt-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Cairo,Egypt)
 
 <br/>
@@ -204,4 +206,6 @@ I specialize in building **enterprise-grade .NET solutions** for global clients.
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer&animation=fadeIn)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%9A%80;Let's+build+something+great+together!+%F0%9F%92%BC;Available+for+remote+opportunities+worldwide+%F0%9F%8C%8D" alt="Footer Typing SVG" />
+</div>
